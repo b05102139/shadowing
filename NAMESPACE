@@ -3,6 +3,7 @@
 export(l2_plot)
 export(l2_preprocess)
 export(l2_reshape)
+export(relapse_detect)
 export(t_error)
 export(word_plot)
 export(word_subset)
