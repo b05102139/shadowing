@@ -2,7 +2,8 @@
 % Please edit documentation in R/relapse_detect.R
 \name{relapse_detect}
 \alias{relapse_detect}
-\title{Title}
+\title{Relapse Detection
+This function detects when an error rate goes up again mid-trial, which we take to be a sign of relapse}
 \usage{
 relapse_detect(subset_word)
 }
@@ -13,5 +14,6 @@ relapse_detect(subset_word)
 
 }
 \description{
-Title
+Relapse Detection
+This function detects when an error rate goes up again mid-trial, which we take to be a sign of relapse
 }

@@ -1,5 +1,5 @@
-#' Title
-#'
+#' Pronunciation Error Rate
+#' This function retrieves the ordered error rate in any given trial
 #' @param reshaped_df
 #' @param t_number
 #'

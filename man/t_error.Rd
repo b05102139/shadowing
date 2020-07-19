@@ -2,7 +2,8 @@
 % Please edit documentation in R/t_error.R
 \name{t_error}
 \alias{t_error}
-\title{Title}
+\title{Pronunciation Error Rate
+This function retrieves the ordered error rate in any given trial}
 \usage{
 t_error(reshaped_df, t_number)
 }
@@ -13,5 +14,6 @@ t_error(reshaped_df, t_number)
 
 }
 \description{
-Title
+Pronunciation Error Rate
+This function retrieves the ordered error rate in any given trial
 }

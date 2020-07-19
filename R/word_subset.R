@@ -1,4 +1,4 @@
-#' Title
+#' This function subsets data related to a single word when many other words are present in a dataframe
 #'
 #' @param reshaped_df
 #' @param word_to_subset

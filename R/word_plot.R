@@ -1,5 +1,5 @@
-#' Title
-#'
+#' Plot Function of Single Word Shadowing Improvement
+#' This function plots the shadowing improvement of a single word
 #' @param reshaped_df
 #' @param word_to_plot
 #'

@@ -2,7 +2,8 @@
 % Please edit documentation in R/word_plot.R
 \name{word_plot}
 \alias{word_plot}
-\title{Title}
+\title{Plot Function of Single Word Shadowing Improvement
+This function plots the shadowing improvement of a single word}
 \usage{
 word_plot(reshaped_df, word_to_plot)
 }
@@ -13,5 +14,6 @@ word_plot(reshaped_df, word_to_plot)
 
 }
 \description{
-Title
+Plot Function of Single Word Shadowing Improvement
+This function plots the shadowing improvement of a single word
 }

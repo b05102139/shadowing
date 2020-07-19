@@ -2,7 +2,7 @@
 % Please edit documentation in R/word_subset.R
 \name{word_subset}
 \alias{word_subset}
-\title{Title}
+\title{This function subsets data related to a single word when many other words are present in a dataframe}
 \usage{
 word_subset(reshaped_df, word_to_subset)
 }
@@ -13,5 +13,5 @@ word_subset(reshaped_df, word_to_subset)
 
 }
 \description{
-Title
+This function subsets data related to a single word when many other words are present in a dataframe
 }
